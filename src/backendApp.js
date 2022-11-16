@@ -1,8 +1,8 @@
 // ========================== express ========================== >
 const app = require('./utils/urlUtils')
 // ========================== Url ========================== >
-const userUrl = require('./utils/userUrl')
-const siteUrl = require('./utils/siteUrl')
+const userUrl = require('./url/userUrl')
+const siteUrl = require('./url/siteUrl')
 // ========================== BDD ========================== >
 const userBdd = require('./entities/user/userMongo')
 
