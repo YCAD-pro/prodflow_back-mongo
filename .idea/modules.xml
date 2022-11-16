@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/accelerate-prodflow.iml" filepath="$PROJECT_DIR$/.idea/accelerate-prodflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../accelerate_frontflow/.idea/accelerate_frontflow.iml" filepath="$PROJECT_DIR$/../accelerate_frontflow/.idea/accelerate_frontflow.iml" />
+    </modules>
+  </component>
+</project>
